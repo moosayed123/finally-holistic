@@ -1,1 +1,1 @@
-# finally-holistic
+# holistec
